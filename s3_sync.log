@@ -1,0 +1,115 @@
+🔍 2025-07-04 16:03:54 - INFO: 🔄 Watching folder for changes: /Volumes/study/cloud web/aws 4th july/
+🔍 2025-07-04 16:04:10 - INFO: 🗑️ Deleted from S3: live-sync/Form_6_English.pdf
+🔍 2025-07-04 16:04:10 - INFO: 📝 Log uploaded to S3: live-sync/logs/s3_sync.log
+🔍 2025-07-04 16:06:52 - INFO: ⏭️ Skipped unsupported file: enable_versioning.py
+🔍 2025-07-04 16:10:36 - INFO: ⏭️ Skipped unsupported file: auto_sync_on_change.py
+🔍 2025-07-04 16:10:54 - INFO: ✅ Uploaded: Form_6_English.pdf → S3:live-sync/Form_6_English.pdf
+🔍 2025-07-04 16:10:54 - INFO: 📝 Log uploaded to S3: live-sync/logs/s3_sync.log
+🔍 2025-07-04 16:13:16 - INFO: ⏭️ Skipped unsupported file: auto_sync_on_change.py
+🔍 2025-07-04 16:13:23 - INFO: 🗑️ Deleted from S3: live-sync/Form_6_English.pdf
+🔍 2025-07-04 16:13:24 - INFO: 📝 Log uploaded to S3: live-sync/logs/s3_sync.log
+🔍 2025-07-04 16:13:27 - INFO: ✅ Uploaded: Form_6_English.pdf → S3:live-sync/Form_6_English.pdf
+🔍 2025-07-04 16:13:27 - INFO: 📝 Log uploaded to S3: live-sync/logs/s3_sync.log
+🔍 2025-07-04 16:15:08 - INFO: ⏭️ Skipped unsupported file: auto_sync_on_change.py
+🔍 2025-07-04 16:15:15 - INFO: 🗑️ Deleted from S3: live-sync/Form_6_English.pdf
+🔍 2025-07-04 16:15:16 - INFO: 📝 Log uploaded to S3: live-sync/logs/s3_sync.log
+🔍 2025-07-04 16:15:20 - INFO: ✅ Uploaded: Form_6_English.pdf → S3:live-sync/Form_6_English.pdf
+🔍 2025-07-04 16:15:20 - INFO: 📝 Log uploaded to S3: live-sync/logs/s3_sync.log
+🔍 2025-07-04 16:16:40 - INFO: ⏭️ Skipped unsupported file: try.py
+🔍 2025-07-04 16:18:20 - INFO: ⏭️ Skipped unsupported file: auto_sync_on_change.py
+🔍 2025-07-04 16:18:24 - INFO: 🗑️ Deleted from S3: live-sync/try.py
+🔍 2025-07-04 16:18:25 - INFO: 📝 Log uploaded to S3: live-sync/logs/s3_sync.log
+🔍 2025-07-04 16:18:28 - INFO: 🗑️ Deleted from S3: live-sync/Form_6_English.pdf
+🔍 2025-07-04 16:18:28 - INFO: 📝 Log uploaded to S3: live-sync/logs/s3_sync.log
+🔍 2025-07-04 16:18:50 - INFO: ⏭️ Skipped unsupported file: Screenshot 2025-07-03 at 4.56.59 PM.png
+🔍 2025-07-04 16:19:00 - INFO: ✅ Uploaded: Reference-material-web-ui.pdf → S3:live-sync/Reference-material-web-ui.pdf
+🔍 2025-07-04 16:19:00 - INFO: 📝 Log uploaded to S3: live-sync/logs/s3_sync.log
+🔍 2025-07-04 16:20:44 - INFO: ⏭️ Skipped unsupported file: auto_sync_on_change.py
+🔍 2025-07-04 16:20:49 - INFO: ⏭️ Skipped unsupported file: auto_sync_on_change.py
+🔍 2025-07-04 16:20:57 - INFO: ⏭️ Skipped unsupported file: auto_sync_on_change.py
+🔍 2025-07-04 16:21:38 - INFO: ⏭️ Skipped unsupported file: auto_sync_on_change.py
+🔍 2025-07-04 16:21:49 - INFO: 🗑️ Deleted from S3: live-sync/Reference-material-web-ui.pdf
+🔍 2025-07-04 16:21:49 - INFO: 📝 Log uploaded to S3: live-sync/logs/s3_sync.log
+🔍 2025-07-04 16:22:09 - INFO: ⏭️ Skipped unsupported file: Resident proof.docx
+🔍 2025-07-04 16:22:24 - INFO: ✅ Uploaded: 1212121.jpg → S3:live-sync/1212121.jpg
+🔍 2025-07-04 16:22:24 - INFO: 📝 Log uploaded to S3: live-sync/logs/s3_sync.log
+🔍 2025-07-04 16:22:39 - INFO: 🗑️ Deleted from S3: live-sync/Form_6_English.pdf
+🔍 2025-07-04 16:22:39 - INFO: 📝 Log uploaded to S3: live-sync/logs/s3_sync.log
+🔍 2025-07-04 16:22:40 - INFO: 🗑️ Deleted from S3: live-sync/Reference-material-web-ui.pdf
+🔍 2025-07-04 16:22:41 - INFO: 📝 Log uploaded to S3: live-sync/logs/s3_sync.log
+🔍 2025-07-04 16:23:11 - INFO: 🗑️ Deleted from S3: live-sync/Resident proof.docx
+🔍 2025-07-04 16:23:11 - INFO: 📝 Log uploaded to S3: live-sync/logs/s3_sync.log
+🔍 2025-07-04 16:23:14 - INFO: 🗑️ Deleted from S3: live-sync/Form_6_English.pdf
+🔍 2025-07-04 16:23:14 - INFO: 📝 Log uploaded to S3: live-sync/logs/s3_sync.log
+🔍 2025-07-04 16:23:26 - INFO: ✅ Uploaded: Form_6_English.pdf → S3:live-sync/Form_6_English.pdf
+🔍 2025-07-04 16:23:26 - INFO: 📝 Log uploaded to S3: live-sync/logs/s3_sync.log
+🔍 2025-07-04 16:25:17 - INFO: ⏭️ Skipped unsupported file: zip_test_sync.py
+🔍 2025-07-04 16:25:31 - INFO: ⏭️ Skipped unsupported file: zip_debug.log
+🔍 2025-07-04 16:27:06 - INFO: ⏭️ Skipped unsupported file: auto_sync_on_change.py
+🔍 2025-07-04 16:27:08 - INFO: ⏭️ Skipped unsupported file: zip_debug.log
+🔍 2025-07-04 16:27:27 - INFO: ✅ Uploaded: Fashion dux.pdf → S3:live-sync/Fashion dux.pdf
+🔍 2025-07-04 16:27:28 - INFO: 📝 Log uploaded to S3: live-sync/logs/s3_sync.log
+🔍 2025-07-04 16:28:51 - INFO: ⏭️ Skipped unsupported file: auto_sync_on_change.py
+🔍 2025-07-04 16:29:03 - INFO: ⏭️ Skipped unsupported file: auto_sync_on_change.py
+🔍 2025-07-04 16:29:36 - INFO: ⏭️ Skipped unsupported file: auto_sync_on_change.py
+🔍 2025-07-04 16:29:44 - INFO: 🗑️ Deleted from S3: live-sync/Form_6_English.pdf
+🔍 2025-07-04 16:29:45 - INFO: 📝 Log uploaded to S3: live-sync/logs/s3_sync.log
+🔍 2025-07-04 16:29:46 - INFO: 🗑️ Deleted from S3: live-sync/Reference-material-web-ui.pdf
+🔍 2025-07-04 16:29:47 - INFO: 📝 Log uploaded to S3: live-sync/logs/s3_sync.log
+🔍 2025-07-04 16:29:48 - INFO: 🗑️ Deleted from S3: live-sync/Fashion dux.pdf
+🔍 2025-07-04 16:29:49 - INFO: 📝 Log uploaded to S3: live-sync/logs/s3_sync.log
+🔍 2025-07-04 16:30:56 - INFO: ✅ Uploaded: thumbnail.pdf → S3:live-sync/thumbnail.pdf
+🔍 2025-07-04 16:30:56 - INFO: 📝 Log uploaded to S3: live-sync/logs/s3_sync.log
+🔍 2025-07-04 16:33:01 - INFO: ⏭️ Skipped unsupported file: auto_sync_on_change.py
+🔍 2025-07-04 16:33:12 - INFO: ✅ Uploaded: Form_6_English.pdf → S3:live-sync/Form_6_English.pdf
+🔍 2025-07-04 16:33:12 - INFO: 📝 Log uploaded to S3: live-sync/logs/s3_sync.log
+🔍 2025-07-04 16:35:21 - INFO: ⏭️ Skipped unsupported file: auto_sync_on_change.py
+🔍 2025-07-04 16:35:27 - INFO: ⏭️ Skipped unsupported file: auto_sync_on_change.py
+🔍 2025-07-04 16:35:51 - INFO: ⏭️ Skipped unsupported file: auto_sync_on_change.py
+🔍 2025-07-04 16:36:07 - INFO: ⏭️ Skipped unsupported file: Resident proof.docx
+🔍 2025-07-04 16:36:30 - INFO: ✅ Uploaded: IMG_1274.jpg → S3:live-sync/IMG_1274.jpg
+🔍 2025-07-04 16:36:30 - INFO: 📝 Log uploaded to S3: live-sync/logs/s3_sync.log
+🔍 2025-07-04 16:50:41 - INFO: 🛑 Folder sync stopped.
+🔍 2025-07-11 14:25:24 - INFO: 📁 Ensured S3 folder: live-sync/logs/
+🔍 2025-07-11 14:25:24 - INFO: 📁 Ensured S3 folder: live-sync/backups/
+🔍 2025-07-11 14:25:24 - INFO: 🔄 Watching folder: /Volumes/study/cloud web/aws 4th july/
+🔍 2025-07-11 14:30:12 - INFO: ⏭️ Skipped unsupported file: auto_sync_on_change.py
+🔍 2025-07-11 14:30:40 - INFO: ➡️ Triggered sync for: /Volumes/study/cloud web/aws 4th july/PRINT-2.jpg
+🔍 2025-07-11 14:30:43 - INFO: ✅ Uploaded main file → live-sync/PRINT-2.jpg
+🔍 2025-07-11 14:30:43 - INFO: 📦 Created ZIP: /Volumes/study/cloud web/aws 4th july/zips/PRINT-2_2025-07-11_14-30-43.zip
+🔍 2025-07-11 14:30:47 - INFO: 📤 Uploaded ZIP → S3: live-sync/backups/PRINT-2_2025-07-11_14-30-43.zip
+🔍 2025-07-11 14:30:48 - INFO: 📝 Log uploaded to S3: live-sync/logs/s3_sync.log
+🔍 2025-07-11 14:30:48 - INFO: ➡️ Triggered sync for: /Volumes/study/cloud web/aws 4th july/PRINT-2.jpg
+🔍 2025-07-11 14:30:51 - INFO: ✅ Uploaded main file → live-sync/PRINT-2.jpg
+🔍 2025-07-11 14:30:51 - INFO: 📦 Created ZIP: /Volumes/study/cloud web/aws 4th july/zips/PRINT-2_2025-07-11_14-30-51.zip
+🔍 2025-07-11 14:30:58 - INFO: 📤 Uploaded ZIP → S3: live-sync/backups/PRINT-2_2025-07-11_14-30-51.zip
+🔍 2025-07-11 14:30:58 - INFO: 📝 Log uploaded to S3: live-sync/logs/s3_sync.log
+🔍 2025-07-11 14:33:42 - INFO: 🛑 Sync stopped.
+🔍 2025-07-11 14:33:46 - INFO: 📁 Ensured S3 folder: live-sync/logs/
+🔍 2025-07-11 14:33:46 - INFO: 📁 Ensured S3 folder: live-sync/backups/
+🔍 2025-07-11 14:33:47 - INFO: ℹ️ Versioning already enabled on bucket: 24030142014
+🔍 2025-07-11 14:33:47 - INFO: 🔄 Watching folder: /Volumes/study/cloud web/aws 4th july/
+🔍 2025-07-11 14:34:08 - INFO: 🗑️ Deleted main file from S3: live-sync/PRINT-2.jpg
+🔍 2025-07-11 14:34:09 - INFO: 📝 Log uploaded to S3: live-sync/logs/s3_sync.log
+🔍 2025-07-11 14:34:12 - INFO: ⏭️ Skipped unsupported file: .DS_Store
+🔍 2025-07-11 14:38:56 - INFO: ➡️ Triggered sync for: /Volumes/study/cloud web/aws 4th july/PRINT-2.jpg
+🔍 2025-07-11 14:39:00 - INFO: ✅ Uploaded main file → live-sync/PRINT-2.jpg
+🔍 2025-07-11 14:39:00 - INFO: 📦 Created ZIP: /Volumes/study/cloud web/aws 4th july/zips/PRINT-2.zip
+🔍 2025-07-11 14:39:03 - INFO: 📤 Uploaded ZIP → S3: live-sync/backups/PRINT-2.zip
+🔍 2025-07-11 14:39:04 - INFO: 📝 Log uploaded to S3: live-sync/logs/s3_sync.log
+🔍 2025-07-11 14:44:07 - INFO: ⏭️ Skipped unsupported file: deletemultiple.py
+🔍 2025-07-11 14:47:34 - INFO: 🗑️ Deleted main file from S3: live-sync/deletemultiple.py
+🔍 2025-07-11 14:47:34 - INFO: 📝 Log uploaded to S3: live-sync/logs/s3_sync.log
+🔍 2025-07-11 14:53:20 - INFO: 🗑️ Deleted main file from S3: live-sync/insta.py
+🔍 2025-07-11 14:53:20 - INFO: 📝 Log uploaded to S3: live-sync/logs/s3_sync.log
+🔍 2025-07-11 14:53:39 - INFO: ⏭️ Skipped unsupported file: auto_sync_on_change.py
+🔍 2025-07-11 14:53:47 - INFO: ⏭️ Skipped unsupported file: crud.py
+🔍 2025-07-11 14:54:02 - INFO: ⏭️ Skipped unsupported file: supportfile.py
+🔍 2025-07-11 14:54:07 - INFO: ⏭️ Skipped unsupported file: automaticbackup.py
+🔍 2025-07-11 14:54:12 - INFO: ⏭️ Skipped unsupported file: folder.py
+🔍 2025-07-11 14:54:20 - INFO: ⏭️ Skipped unsupported file: zip_test_sync.py
+🔍 2025-07-11 14:54:26 - INFO: ⏭️ Skipped unsupported file: insta.py
+🔍 2025-07-11 14:54:35 - INFO: ⏭️ Skipped unsupported file: enable_versioning.py
+🔍 2025-07-11 14:54:39 - INFO: ⏭️ Skipped unsupported file: bucketchecker.py
+🔍 2025-07-11 14:54:46 - INFO: ⏭️ Skipped unsupported file: file.py
+🔍 2025-07-11 14:54:51 - INFO: ⏭️ Skipped unsupported file: bucket.py

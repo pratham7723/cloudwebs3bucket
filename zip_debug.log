@@ -1,0 +1,7 @@
+2025-07-04 16:25:31,203 - INFO - Started minimal ZIP sync test.
+2025-07-04 16:25:31,214 - INFO - Skipped unsupported file: zip_debug.log
+2025-07-04 16:25:45,843 - INFO - Uploaded RAW file → live-sync/Reference-material-web-ui.pdf
+2025-07-04 16:25:45,851 - INFO - Created ZIP: /Volumes/study/cloud web/aws 4th july/zips/Reference-material-web-ui_2025-07-04_16-25-45.zip
+2025-07-04 16:25:46,341 - INFO - Uploaded ZIP → live-sync/backups/Reference-material-web-ui_2025-07-04_16-25-45.zip
+2025-07-04 16:27:06,222 - INFO - Skipped unsupported file: auto_sync_on_change.py
+2025-07-04 16:27:08,535 - INFO - Stopped by user.
