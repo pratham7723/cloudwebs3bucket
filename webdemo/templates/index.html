@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>AWS S3 Automation Demo</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<div class="container">
+    <h1>🗂️ AWS S3 Automation Demo</h1>
+    <section>
+        <h2>⬆️ Upload File</h2>
+        <form id="uploadForm">
+            <input type="file" id="fileInput" name="file" required>
+            <select id="folderDropdown" name="folderDropdown" style="margin-left:10px;"></select>
+            <button type="submit">Upload</button>
+        </form>
+        <div style="margin-top:10px;">
+            <input type="text" id="newFolderInput" placeholder="New folder name (e.g. newfolder/)" style="margin-right:8px;">
+            <button id="createFolderBtn" type="button">Create Folder</button>
+            <span id="createFolderResult" class="alert" style="display:none;"></span>
+        </div>
+        <div id="uploadResult" class="alert" style="display:none;"></div>
+    </section>
+    <section>
+        <h2>📁 S3 Files</h2>
+        <ul id="fileList"></ul>
+    </section>
+    <section id="editSection" style="display:none;">
+        <h2>✏️ Edit File: <span id="editFileName"></span></h2>
+        <textarea id="editFileContent" rows="12" style="width:100%;"></textarea><br>
+        <button id="saveEditBtn">Save</button>
+        <button id="cancelEditBtn">Cancel</button>
+        <div id="editResult" class="alert" style="display:none;"></div>
+    </section>
+    <section>
+        <h2>📝 Logs</h2>
+        <pre id="logContent" style="background:#f4f4f4; padding:10px; max-height:200px; overflow:auto;"></pre>
+    </section>
+    <section>
+        <h2>🔄 Versioning Status</h2>
+        <div id="versioningStatus"></div>
+    </section>
+</div>
+<script src="/static/main.js"></script>
+</body>
+</html> 
