@@ -2,6 +2,7 @@ import os
 from flask import Flask, render_template, request, jsonify, send_from_directory, Response
 import boto3
 from botocore.exceptions import ClientError
+import glob
 
 app = Flask(__name__, static_folder='static', template_folder='templates')
 
@@ -187,4 +188,5 @@ def send_static(path):
     return send_from_directory('static', path)
 
 if __name__ == '__main__':
-    app.run(debug=True) 
+    extra_files = glob.glob('/Volumes/study/cloud web/aws 4th july/*')
+    app.run(debug=True, extra_files=extra_files) 

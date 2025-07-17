@@ -113,3 +113,26 @@
 🔍 2025-07-11 14:54:39 - INFO: ⏭️ Skipped unsupported file: bucketchecker.py
 🔍 2025-07-11 14:54:46 - INFO: ⏭️ Skipped unsupported file: file.py
 🔍 2025-07-11 14:54:51 - INFO: ⏭️ Skipped unsupported file: bucket.py
+🔍 2025-07-17 23:42:28 - INFO: 📁 Ensured S3 folder: live-sync/logs/
+🔍 2025-07-17 23:42:28 - INFO: 📁 Ensured S3 folder: live-sync/backups/
+🔍 2025-07-17 23:42:29 - INFO: ℹ️ Versioning already enabled on bucket: 24030142014
+🔍 2025-07-17 23:42:29 - INFO: 🔄 Watching folder: /Volumes/study/cloud web/aws 4th july/
+🔍 2025-07-17 23:43:34 - INFO: 🗑️ Deleted main file from S3: live-sync/try.py
+🔍 2025-07-17 23:43:35 - INFO: 📝 Log uploaded to S3: live-sync/logs/s3_sync.log
+🔍 2025-07-17 23:43:38 - INFO: ➡️ Triggered sync for: /Volumes/study/cloud web/aws 4th july/t.txt
+🔍 2025-07-17 23:43:39 - INFO: ✅ Uploaded main file → live-sync/t.txt
+🔍 2025-07-17 23:43:39 - INFO: 📦 Created ZIP: /Volumes/study/cloud web/aws 4th july/zips/t.zip
+🔍 2025-07-17 23:43:39 - INFO: 📤 Uploaded ZIP → S3: live-sync/backups/t.zip
+🔍 2025-07-17 23:43:40 - INFO: 📝 Log uploaded to S3: live-sync/logs/s3_sync.log
+🔍 2025-07-17 23:43:44 - INFO: ➡️ Triggered sync for: /Volumes/study/cloud web/aws 4th july/t.txt
+🔍 2025-07-17 23:43:45 - INFO: ✅ Uploaded main file → live-sync/t.txt
+🔍 2025-07-17 23:43:45 - INFO: 📦 Created ZIP: /Volumes/study/cloud web/aws 4th july/zips/t.zip
+🔍 2025-07-17 23:43:45 - INFO: 📤 Uploaded ZIP → S3: live-sync/backups/t.zip
+🔍 2025-07-17 23:43:46 - INFO: 📝 Log uploaded to S3: live-sync/logs/s3_sync.log
+🔍 2025-07-17 23:44:03 - INFO: 🗑️ Deleted main file from S3: live-sync/t.txt
+🔍 2025-07-17 23:44:04 - INFO: 📝 Log uploaded to S3: live-sync/logs/s3_sync.log
+🔍 2025-07-17 23:44:30 - INFO: ➡️ Triggered sync for: /Volumes/study/cloud web/aws 4th july/auto_sync_on_change.py
+🔍 2025-07-17 23:44:31 - INFO: ✅ Uploaded main file → live-sync/auto_sync_on_change.py
+🔍 2025-07-17 23:44:31 - INFO: 📦 Created ZIP: /Volumes/study/cloud web/aws 4th july/zips/auto_sync_on_change.zip
+🔍 2025-07-17 23:44:32 - INFO: 📤 Uploaded ZIP → S3: live-sync/backups/auto_sync_on_change.zip
+🔍 2025-07-17 23:44:32 - INFO: 📝 Log uploaded to S3: live-sync/logs/s3_sync.log

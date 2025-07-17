@@ -19,7 +19,6 @@ bucket_name = '24030142014'
 folder_name = 'documents/'  # S3 folder (prefix)
 local_folder = '/Volumes/study/cloud web/aws 4th july/'  # Local directory
 allowed_extensions = ('.pdf', '.jpg', '.jpeg', '.mpeg', '.doc', '.txt', '.py')
-
 unsupported_files = []
 
 try:

@@ -25,7 +25,7 @@ zip_output_folder = os.path.join(watch_folder, 'zips/')
 s3_base_folder = 'live-sync/'
 backup_folder = s3_base_folder + 'backups/'
 log_s3_key = s3_base_folder + "logs/s3_sync.log"
-allowed_extensions = ('.pdf', '.jpg', '.jpeg', '.mpeg', '.doc', '.txt')
+allowed_extensions = ('.pdf', '.jpg', '.jpeg', '.mpeg', '.doc', '.txt', '.py')
 
 s3 = boto3.client('s3')
 
