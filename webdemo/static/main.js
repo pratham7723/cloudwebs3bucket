@@ -29,34 +29,61 @@ document.addEventListener('DOMContentLoaded', function() {
 
     uploadForm.addEventListener('submit', function(e) {
         e.preventDefault();
-        const formData = new FormData();
-        formData.append('file', fileInput.files[0]);
+        const files = fileInput.files;
         let folder = folderDropdown.value;
-        if (folder) formData.append('folder', folder);
-        fetch('/api/upload', {
-            method: 'POST',
-            body: formData
-        })
-        .then(res => res.json())
-        .then(data => {
+        if (!files.length) {
             uploadResult.style.display = '';
-            if (data.success) {
-                uploadResult.textContent = 'Uploaded: ' + data.filename;
+            uploadResult.textContent = 'Please select at least one file.';
+            uploadResult.className = 'alert alert-error';
+            setTimeout(() => { uploadResult.style.display = 'none'; }, 3500);
+            return;
+        }
+        let uploadCount = 0;
+        let errorCount = 0;
+        let results = [];
+        function showFinalResult() {
+            uploadResult.style.display = '';
+            if (errorCount === 0) {
+                uploadResult.textContent = `Uploaded ${uploadCount} file(s) successfully.`;
                 uploadResult.className = 'alert';
-                loadFiles();
-                loadFolders();
             } else {
-                uploadResult.textContent = 'Error: ' + data.error;
+                uploadResult.textContent = `Uploaded ${uploadCount} file(s), ${errorCount} error(s):\n` + results.filter(r => r.error).map(r => r.error).join('\n');
                 uploadResult.className = 'alert alert-error';
             }
+            loadFiles();
+            loadFolders();
             setTimeout(() => { uploadResult.style.display = 'none'; }, 3500);
-        })
-        .catch(err => {
-            uploadResult.textContent = 'Error: ' + err;
-            uploadResult.className = 'alert alert-error';
-            uploadResult.style.display = '';
-            setTimeout(() => { uploadResult.style.display = 'none'; }, 3500);
-        });
+        }
+        let completed = 0;
+        for (let i = 0; i < files.length; i++) {
+            const formData = new FormData();
+            formData.append('file', files[i]);
+            if (folder) formData.append('folder', folder);
+            fetch('/api/upload', {
+                method: 'POST',
+                body: formData
+            })
+            .then(res => res.json())
+            .then(data => {
+                if (data.success) {
+                    uploadCount++;
+                    results.push({success: true, filename: data.filename});
+                } else {
+                    errorCount++;
+                    results.push({error: `Error uploading ${files[i].name}: ${data.error}`});
+                }
+            })
+            .catch(err => {
+                errorCount++;
+                results.push({error: `Error uploading ${files[i].name}: ${err}`});
+            })
+            .finally(() => {
+                completed++;
+                if (completed === files.length) {
+                    showFinalResult();
+                }
+            });
+        }
     });
 
     // Helper: Build tree from flat file list

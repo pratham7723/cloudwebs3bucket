@@ -18,7 +18,7 @@ s3 = boto3.client('s3')
 bucket_name = '24030142014'
 folder_name = 'documents/'  # S3 folder (prefix)
 local_folder = '/Volumes/study/cloud web/aws 4th july/'  # Local directory
-allowed_extensions = ('.pdf', '.jpg', '.jpeg', '.mpeg', '.doc', '.txt')
+allowed_extensions = ('.pdf', '.jpg', '.jpeg', '.mpeg', '.doc', '.txt', '.py')
 
 unsupported_files = []
 
